@@ -163,3 +163,5 @@ cython_debug/
 
 Sensor.pdf
 Credentials.txt
+sensor_deployment.md
+local_project _setup.md
